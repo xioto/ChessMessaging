@@ -1,6 +1,6 @@
 # ChessMessaging
 
-A Python Script to turn Chess Notation into English letters.
+A Python Script to translate Chess Notation into English letters.
 
 
 ## NOTE -
